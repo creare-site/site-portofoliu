@@ -17,7 +17,7 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; WebsiteMarket</li>
+        <li>&copy; <a href="https://websitemarket.ro">WebsiteMarket</a> </li>
         <li>
           Demo Images: <a href="http://unsplash.com">Unsplash</a>
         </li>

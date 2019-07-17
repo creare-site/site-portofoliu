@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Site prezentare | WebsiteMarket', // <title>
+  siteTitle: 'Creare Site - Portofoliu | WebsiteMarket', // <title>
   manifestName: 'Highlights',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -8,8 +8,8 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Portofoliu',
-  subHeading: 'Site Prezentare',
+  heading: 'Creare Site',
+  subHeading: 'Portofoliu',
   // social
   socialLinks: [
     {
