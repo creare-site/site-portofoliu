@@ -24,7 +24,7 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 ## Utilizare (pentru dezvoltatori)
 
-Acesta website este o aplicatie JAMstack, construta pe [GatsbyJS](https://www.gatsbyjs.org/)
+Acesta website este o aplicatie JAMstack, dezvoltata in [React](https://reactjs.org/) / [GatsbyJS](https://www.gatsbyjs.org/)
 
 ```
 $ git clone https://github.com/creare-site/site-portofoliu.git
