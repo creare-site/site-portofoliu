@@ -4,7 +4,7 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-![site Portofoliu](https://raw.githubusercontent.com/creare-site/static/master/produse/creare-site-portofoliu2-intro.jpg)
+![site Portofoliu](https://raw.githubusercontent.com/creare-site/static/master/produse/creare-site-portofoliu2-intro.gif)
 
 <br />
 
